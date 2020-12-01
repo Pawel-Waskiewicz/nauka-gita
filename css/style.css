@@ -1,0 +1,10 @@
+.text {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: left;
+}
+h3 {
+    font-family: cursive;
+    margin: 0;
+}
