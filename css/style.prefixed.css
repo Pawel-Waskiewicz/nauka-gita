@@ -1,0 +1,13 @@
+.text {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    text-align: left;
+}
+h3 {
+    font-family: cursive;
+    margin: 0;
+}
